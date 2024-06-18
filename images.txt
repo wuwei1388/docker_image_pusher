@@ -26,5 +26,5 @@ portainer/agent
 yangxuan8282/typecho
 lsioarmhf/transmission
 portainer/portainer-ce:latest
-typecho:latest
+typecho
 yiwanlingyi/baota_back
