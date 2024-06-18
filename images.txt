@@ -13,3 +13,4 @@ azking/arm64_bt59_Inmp
 kodcloud/kodbox
  jauderho/tailscale
 jeessy/ddns-go
+zerotier/zerotier
