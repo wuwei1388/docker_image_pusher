@@ -23,7 +23,7 @@ jellyfin/jellyfin:latest
 shiyu1314/embyserver-crack_arm32v7:latest
 gdy666/lucky:2.9.0
 wangbinxingkong/fast:latest
-yangxuan8282/typecho
+yiwanlingyi/baota_back:lnmp59-arm
 mysql/mysql-server
 pytorch-ubuntu
 openanolis/mysql
