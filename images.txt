@@ -18,3 +18,4 @@ bigowen/arm64_bt59_Inmp
 sulinggg/openwrt
 p3terx/aria2-pro
 xhofe/alist
+unifreq/openwrt-aarch64
