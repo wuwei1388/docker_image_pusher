@@ -20,3 +20,4 @@ p3terx/aria2-pro
 xhofe/alist
 unifreq/openwrt-aarch64
 mooelin/1panel
+lovechen/embyserver
