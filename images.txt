@@ -22,3 +22,4 @@ unifreq/openwrt-aarch64
 mooelin/1panel
 emby/embyserver
 jellyfin/jellyfin
+xhofe/alist
