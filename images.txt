@@ -22,5 +22,5 @@ unifreq/openwrt-aarch64
 mooelin/1panel
 lovechen/embyserver
 jellyfin/jellyfin-server
-portainer
+portainer/portainer-ee
 xhofe/alist
