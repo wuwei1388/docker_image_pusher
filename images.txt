@@ -24,7 +24,7 @@ shiyu1314/embyserver-crack_arm32v7:latest
 portainer/portainer-ce
 wangbinxingkong/fast
 yangxuan8282/typecho
-lsioarmhf/transmission
+mysql/mysql-server：8.0.32
 pytorch-ubuntu
 openanolis/mysql
 moelin/1panel
