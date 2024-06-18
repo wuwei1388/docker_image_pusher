@@ -25,3 +25,4 @@ jellyfin/alist
 portainer/agent
 haroldli/alist-tvbox
 lsioarmhf/transmission
+portainer/portainer-ce
