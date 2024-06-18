@@ -20,7 +20,7 @@ p3terx/aria2-pro
 xhofe/alist:latest
 unifreq/openwrt-aarch64
 jellyfin/jellyfin:latest
-lovechen/embyserver
+shiyu1314/embyserver-crack_arm32v7:latest
 jellyfin/alist
 portainer/agent
 haroldli/alist-tvbox
