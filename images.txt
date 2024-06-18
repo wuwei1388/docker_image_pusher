@@ -15,3 +15,4 @@ wordpress
 jeessy/ddns-go
 zerotier/zerotier
 bigowen/arm64_bt59_Inmp
+sulinggg/openwrt
