@@ -10,7 +10,7 @@ whyour/qinglong
 linuxserver/nextcloud
 jonnyan404/verysync
 wisdomsky/casaos-toolbox
-kodcloud/kodbox
+wordpress
  jauderho/tailscale
 jeessy/ddns-go
 zerotier/zerotier
