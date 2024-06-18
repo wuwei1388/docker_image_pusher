@@ -24,3 +24,4 @@ shiyu1314/embyserver-crack_arm32v7:latest
 jellyfin/alist
 portainer/agent
 haroldli/alist-tvbox
+lsioarmhf/transmission
