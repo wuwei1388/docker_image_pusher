@@ -21,5 +21,5 @@ xhofe/alist
 unifreq/openwrt-aarch64
 mooelin/1panel
 emby/embyserver
-linuxserver/jellyfin
+jellyfin/jellyfin
 xhofe/alist
