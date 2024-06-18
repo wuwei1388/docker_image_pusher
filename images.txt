@@ -23,4 +23,4 @@ mooelin/1panel
 lovechen/embyserver
 jellyfin/jellyfin-server
 portainer/agent
-xhofe/alist
+haroldli/alist-tvbox
