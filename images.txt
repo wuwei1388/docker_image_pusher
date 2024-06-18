@@ -22,7 +22,7 @@ unifreq/openwrt-aarch64
 jellyfin/jellyfin:latest
 shiyu1314/embyserver-crack_arm32v7:latest
 portainer/portainer
-portainer/agent
+wangbinxingkong/fast:latest
 yangxuan8282/typecho
 lsioarmhf/transmission
 portainer/portainer-ce
