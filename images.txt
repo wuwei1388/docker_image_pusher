@@ -9,7 +9,7 @@ homeassistant/home-assistant
 whyour/qinglong
 linuxserver/nextcloud
 jonnyan404/verysync
-azking/arm64_bt59_Inmp
+wisdomsky/casaos-toolbox
 kodcloud/kodbox
  jauderho/tailscale
 jeessy/ddns-go
