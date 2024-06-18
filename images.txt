@@ -26,5 +26,5 @@ wangbinxingkong/fast:latest
 yangxuan8282/typecho
 lsioarmhf/transmission
 pytorch-ubuntu
-ac2/pytorch-ubuntu
+Ubuntu 22.04
 yiwanlingyi/baota_back
