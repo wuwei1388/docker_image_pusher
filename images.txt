@@ -11,4 +11,4 @@ linuxserver/nextcloud
 jonnyan404/verysync
 azking/arm64_bt59_Inmp
 yangxuan8282/kodexplorer
-tailscale/tailscale
+ jauderho/tailscale
