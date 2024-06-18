@@ -27,4 +27,4 @@ yangxuan8282/typecho
 lsioarmhf/transmission
 pytorch-ubuntu
 openanolis/mysql
-yiwanlingyi/baota_back
+moelin/1panel
