@@ -17,7 +17,7 @@ zerotier/zerotier
 linuxserver/qbittorrent
 sulinggg/openwrt
 p3terx/aria2-pro
-xhofe/alist
+xhofe/alist:latest
 unifreq/openwrt-aarch64
 jellyfin/jellyfin:latest
 lovechen/embyserver
