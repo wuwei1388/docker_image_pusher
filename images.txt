@@ -23,7 +23,7 @@ jellyfin/jellyfin:latest
 shiyu1314/embyserver-crack_arm32v7:latest
 jellyfin/alist
 portainer/agent
- yangxuan8282/typecho:latest
+yangxuan8282/typecho
 lsioarmhf/transmission
 portainer/portainer-ce:latest
 typecho:latest
