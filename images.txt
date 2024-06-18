@@ -21,7 +21,7 @@ xhofe/alist:latest
 unifreq/openwrt-aarch64
 jellyfin/jellyfin:latest
 shiyu1314/embyserver-crack_arm32v7:latest
-wangbinxingkong/fast
+gdy666/lucky:2.9.0
 wangbinxingkong/fast
 yangxuan8282/typecho
 mysql/mysql-server
