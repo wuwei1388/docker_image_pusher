@@ -25,6 +25,6 @@ jellyfin/alist
 portainer/agent
 yangxuan8282/typecho
 lsioarmhf/transmission
-portainer/portainer-ce:latest
+portainer/portainer-ce
 typecho
 yiwanlingyi/baota_back
