@@ -26,3 +26,4 @@ portainer/agent
  yangxuan8282/typecho:latest
 lsioarmhf/transmission
 portainer/portainer-ce
+typecho:latest
