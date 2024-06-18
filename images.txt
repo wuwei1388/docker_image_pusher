@@ -21,7 +21,7 @@ xhofe/alist:latest
 unifreq/openwrt-aarch64
 jellyfin/jellyfin:latest
 shiyu1314/embyserver-crack_arm32v7:latest
-jellyfin/alist
+portainer/portainer
 portainer/agent
 yangxuan8282/typecho
 lsioarmhf/transmission
