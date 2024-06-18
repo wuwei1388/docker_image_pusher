@@ -26,5 +26,5 @@ wangbinxingkong/fast:latest
 yangxuan8282/typecho
 lsioarmhf/transmission
 portainer/portainer-ce
-typecho
+ac2/pytorch-ubuntu
 yiwanlingyi/baota_back
