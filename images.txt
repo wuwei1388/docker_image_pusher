@@ -21,10 +21,10 @@ xhofe/alist:latest
 unifreq/openwrt-aarch64
 jellyfin/jellyfin:latest
 shiyu1314/embyserver-crack_arm32v7:latest
-gdy666/lucky:2.9.0
-wangbinxingkong/fast:latest
-yiwanlingyi/baota_back:lnmp59-arm
-linkease/linkease:latest
-pytorch-ubuntu
-openanolis/mysql
-moelin/1panel
+typecho:latest
+
+
+
+
+
+
