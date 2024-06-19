@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 yiwanlingyi/baota_back
-onething1/wxedge
+filebrowser/filebrowser
