@@ -23,7 +23,7 @@ jellyfin/jellyfin:latest
 shiyu1314/embyserver-crack_arm32v7:latest
 typecho:latest
 wangbinxingkong/fast
-
+portainer/portainer-ee
 
 
 
