@@ -25,6 +25,6 @@ typecho:latest
 wangbinxingkong/fast
 portainerci/portainer
 portainer/golang-builder
-
+portainer/base
 
 
