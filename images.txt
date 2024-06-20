@@ -3,28 +3,4 @@ nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-python:alpine3.19
-homeassistant/home-assistant
-whyour/qinglong
-linuxserver/nextcloud
-jonnyan404/verysync
-wisdomsky/casaos-toolbox
-wordpress
- jauderho/tailscale
-jeessy/ddns-go
-zerotier/zerotier
-linuxserver/qbittorrent
-sulinggg/openwrt
-p3terx/aria2-pro
-xhofe/alist:latest
-unifreq/openwrt-aarch64
-jellyfin/jellyfin:latest
-shiyu1314/embyserver-crack_arm32v7:latest
-typecho:latest
-wangbinxingkong/fast
-portainerci/portainer
-portainer/golang-builder
-portainer/base
-
-
+mtphotos/mt-photo
