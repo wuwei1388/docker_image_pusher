@@ -1,1 +1,1 @@
-containrrr/Watchtower
+nginx
