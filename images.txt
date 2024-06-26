@@ -1,1 +1,1 @@
-yiwanlingyi/baota_back:lnmp59-arm
+joaquindlz/rpi-docker-wordpress
