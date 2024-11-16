@@ -1,1 +1,1 @@
-joaquindlz/rpi-docker-wordpress
+ypptec/nascab:latest
