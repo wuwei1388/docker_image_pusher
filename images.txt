@@ -1,1 +1,2 @@
 joaquindlz/rpi-docker-wordpress
+hslr/sun-panel
